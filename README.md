@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omoima
 - 👀 I’m interested in scalable solutions, new technologies and data.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on ML and fintech.
 - 📫 How to reach me omoima@student.wethinkcode.co.za.
 
